@@ -1,5 +1,4 @@
-# Meme Generator 
-:trollface:
+# Meme Generator  :stuck_out_tongue:
 
 ## Allows users to add text to the top and bottom of a randomly generated meme image. 
 Users can also select the colour of the text.
