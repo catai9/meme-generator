@@ -5,5 +5,5 @@ The colour of the text can also be changed by the user.
 The images are generated from a [Meme API](https://api.imgflip.com/get_memes).
 
 ### Languages Used: 
-- JavaScript, JSX, React.js, Create-React-App
+- React.js, JavaScript, JSX, Create-React-App
 - HTML5, CSS, Sass,
